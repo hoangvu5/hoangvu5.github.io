@@ -1,10 +1,10 @@
 # Freshman in Computer Science
 
-<a href="https://github.com/hoangvu5" target="blank"><img src="./asset/colored-SVG/github-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
-<a href="https://www.linkedin.com/in/hoang-vu-98457728a" target="blank"><img src="./asset/colored-SVG/linkedin-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
-<a href="https://codeforces.com/profile/Fury505" target="blank"><img src="./asset/colored-SVG/codeforces-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
-<a href="https://discordapp.com/users/530765773438976020" target="blank"><img src="./asset/colored-SVG/discord-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;">
-<a href="https://www.kaggle.com/hoangmvu" target="blank"><img src="./asset/colored-SVG/kaggle-com.svg" style="display:block; margin-left:auto; margin-right:auto; width:4%;"> 
+<a href="https://github.com/hoangvu5" target="blank"><img src="./asset/colored-SVG/github-com.svg" style="margin-left:auto; margin-right:auto; width:5%;"> 
+<a href="https://www.linkedin.com/in/hoang-vu-98457728a" target="blank"><img src="./asset/colored-SVG/linkedin-com.svg" style="margin-left:auto; margin-right:auto; width:5%;"> 
+<a href="https://codeforces.com/profile/Fury505" target="blank"><img src="./asset/colored-SVG/codeforces-com.svg" style="margin-left:auto; margin-right:auto; width:5%;"> 
+<a href="https://discordapp.com/users/530765773438976020" target="blank"><img src="./asset/colored-SVG/discord-com.svg" style="margin-left:auto; margin-right:auto; width:5%;">
+<a href="https://www.kaggle.com/hoangmvu" target="blank"><img src="./asset/colored-SVG/kaggle-com.svg" style="margin-left:auto; margin-right:auto; width:5%;"> 
 
 #### Technical Skills: C++, Python, Java, Tensorflow
 
